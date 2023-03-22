@@ -1,0 +1,285 @@
+.a1{
+    font-size: 200px;
+    color: white; 
+    padding-left: 50px; 
+}
+.p1{
+    font-size: 40px;
+    color: blue; 
+    padding-left: 100px;
+    position: relative;bottom: 100px;
+}
+.p2{
+    width: 600px;
+    text-align: justify;
+    padding-left: 100px;
+    position: relative;bottom: 100px;
+}
+.p3{
+    width: 400px;
+    text-align: justify;
+    padding-left: 250px;
+}
+.a2{padding-left: 250px;
+    color: blue;
+}
+.s1{
+    background-color: rgb(216, 219, 218);
+}
+.a3{
+    font-size: 35px;
+    color: blue;
+}
+.i1{
+    padding-right: 200px;
+    
+}
+.i2{
+  padding-left: 80px;
+}
+.p4{
+    font-size: 16px;
+    width: 350px;
+    text-align: justify;
+}
+.s4{
+    display: flex;
+}
+.d1{
+    padding-left: 400px; 
+} 
+.s3{
+    display: flex;
+}
+.d4{
+    background-color: blue;
+    width: 180px; height: 250px;
+    
+}
+.d3{
+    background-color: rgb(216, 219, 218);
+    width: 800px; height: 600px; text-align: justify;
+}
+.d5{
+    margin-bottom: 700px;
+    position: relative;top: 400px;
+    font-size: 20px;
+}
+.p5{
+    width: 600px;
+    text-align: justify;
+}
+.p6{
+    text-align: justify;
+    width: 350px;
+    margin-left: 750px;
+    position: relative; margin: bottom 400px;
+}
+.a5{
+    background-color: blue; width: 200px; height: 50px;
+    text-align: center;
+    margin-left: 350px;
+}
+.a4{
+    margin-left: 400px;
+    font-size: 35px;
+}
+.s6{
+
+    display: flex;
+}
+.p7{
+    text-align: justify;
+    width: 350px;
+    margin-left: 200px;
+}
+.i3{
+    margin-left: 750px
+}
+.s7{
+    background-color:rgb(216, 219, 218) ;  
+}
+.s8{
+    display: flex;
+}
+.a6{
+    font-size: 40px;
+    text-align: left;
+    margin-left: 300px;
+    padding-top: 100px;
+    position: relative;left: 200px;
+}
+.p8{
+    padding-bottom: 50px;
+}
+.d7{
+    display: flex;
+    position: relative;left: 500px;
+}
+.a7{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+.i4{
+    border-radius: 50%;
+    position: relative; top: px;
+}
+.i5{
+    border-radius: 50%;
+    position: relative; left: 80px; top: 20px; 
+}
+.s9{
+    background-color: rgb(216, 219, 218) ;  
+    height: 700px;
+}
+.a10{
+    font-size: 140px; color: rgb(235, 241, 236);
+    text-align: justify;
+    margin-left: 200px;
+}
+.a11{
+    color: blue; font-size: 30px;margin-left: 200px;
+    position: relative; bottom: 100px;
+}
+.p13{
+    margin-left: 200px;
+    position: relative;
+    margin-top: 50px;
+    position: relative;bottom: 100px;
+}
+.t1{
+    text-align: justify;
+    padding-left: 200px;
+    width: 50px;
+    font-size: 22px;
+    position: relative;right: 80px;
+}
+.t2{
+    text-align: justify;
+    padding-left: 100px;
+    width: 50px;
+    font-size:22px ;
+    position: relative;right: 80px;
+}
+.p14{
+    color: white;
+    background-color: blue;
+    width: 80px; height: 20px;
+    text-align: center;
+    position: relative; left: 800px;
+}
+.a12{
+    color: blue;
+    font-size: 40px;
+    margin-left: 400px;
+    
+}
+.p15{
+    margin-left: 400px;
+}
+.s10{
+    display: flex;
+}
+.d9{
+    margin-left: 150px;
+    background-color: rgb(160, 168, 161);
+    position: relative;top: 50px;
+    height: 500px;
+    width: 500px;
+}
+.p17{
+    color: blue; font-size: 35px; text-align: center;
+}
+.p16{
+    text-align: center;
+    font-size: 17px;
+}
+.p18{
+    color: rgb(251, 251, 255); text-align: center;
+    
+}
+.p19{
+    color: rgb(251, 251, 255); ;
+    text-align: center;
+    position: relative;top: 120px;
+}
+.s11{
+    background-color: black;
+    ; height: 200px;
+    position: relative; top: 100px;
+}
+.d10{
+    position: relative; left: 160px;
+}
+.i6{
+    margin-right: 150px;
+    border-radius: 50%;
+    position: relative; top: 10px; left: 15px;
+}
+.h1{
+    width: 200px; height: 10px;
+    background-color: black;
+}
+.h2{
+    width: 1000px; height: 2px;
+    background-color: white;
+    position: relative;bottom: 80px;
+}
+.p9{
+color: gray; 
+position: relative; left: 35px
+}
+.a8{
+    position: relative; top: 40px;
+    position: relative; right: 40px;
+}
+.p10{
+    position: relative; top: 80px;
+    position: relative; right:190px;
+    text-align: justify;
+    width: 350px;
+}
+.a9{
+    position: relative; left: 200px; bottom: 200px;
+
+}
+.p11{
+    position: relative; left: 280px; bottom: 200px;color: grey;
+}
+.p12{
+    position: relative; left: 200px; bottom: 200px;
+    text-align: justify;
+    width: 300px;
+}
+.p20{
+    text-align: center;
+    position: relative; bottom: 100px;
+}
+.d11{
+    border-radius: 50%;
+    position: relative; top: 200px; right: 210px;
+}
+.d12{
+    position: relative; top: 230px; right: 140px;
+    border-radius: 50%;
+    }
+    .i13{
+       position: relative; left: 800px;
+    }
+    .i14{
+        position: relative; left: 200px;
+    }
+.i15{
+    width: 20px; height: 20px;
+    position: relative; left: 375px; bottom: 35px;
+}
+.i16{
+    position: relative; left: 70px; bottom: 180px;
+}
+.i17{
+    position: relative; left: 490px; top: 130px;
+}
+.i18{
+    position: relative; left: 1000px; bottom: 30px;
+}
